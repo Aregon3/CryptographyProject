@@ -1,6 +1,6 @@
-ПРОГРАМА ЗА КРИПТИРАНЕ И ДЕКРИПИТИРАНЕ НА СЪОБЩЕНИЯ НАПРАВЕНА НА С#
+MESSAGE ENCRYPTION AND DECRYPTION PROGRAM MADE IN C#
 
-Интерфейсът на програмата е направен с помощта на WinForms и има три полета за писане, като първото е множестово от символи, 
-които се използват при криптиране и декриптиране на съобщеиния. Второто поле е за текстът, който трябва да се криптира или
-декриптира и последното поле е крайният резултат. Като отгоре има два радио бутона, които решават дали съобщението ще се криптира
-или декриптира. А вдясно е бутона за задействане на процеса на криптиране или декриптиране.
+The program interface is made using WinForms and has three input fields, the first is a set of characters
+that are used when encrypting and decrypting the message. The second field is for the text that needs to be encrypted or
+decrypted and the last field is the final result. At the top there are two radio buttons that decide whether the message will be encrypted 
+or decrypted. And on the right is the button for triggering the encryption or decryption process.

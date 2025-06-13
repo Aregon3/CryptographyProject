@@ -1,0 +1,37 @@
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\bin\Debug\KursovProekt.exe.config
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\bin\Debug\KursovProekt.exe
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\bin\Debug\KursovProekt.pdb
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\obj\Debug\KursovProekt.csproj.AssemblyReference.cache
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\obj\Debug\KursovProekt.Form1.resources
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\obj\Debug\KursovProekt.Properties.Resources.resources
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\obj\Debug\KursovProekt.csproj.GenerateResource.cache
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\obj\Debug\KursovProekt.csproj.CoreCompileInputs.cache
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\obj\Debug\KursovProekt.exe
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\obj\Debug\KursovProekt.pdb
+C:\Users\durot\OneDrive\Desktop\KursovProekt\KursovProekt\obj\Debug\KursovProekt.csproj.AssemblyReference.cache
+C:\Users\durot\OneDrive\Desktop\KursovProekt\KursovProekt\obj\Debug\KursovProekt.Form1.resources
+C:\Users\durot\OneDrive\Desktop\KursovProekt\KursovProekt\obj\Debug\KursovProekt.Properties.Resources.resources
+C:\Users\durot\OneDrive\Desktop\KursovProekt\KursovProekt\obj\Debug\KursovProekt.csproj.GenerateResource.cache
+C:\Users\durot\OneDrive\Desktop\KursovProekt\KursovProekt\obj\Debug\KursovProekt.csproj.CoreCompileInputs.cache
+C:\Users\durot\OneDrive\Desktop\KursovProekt\KursovProekt\obj\Debug\KursovProekt.exe
+C:\Users\durot\OneDrive\Desktop\KursovProekt\KursovProekt\obj\Debug\KursovProekt.pdb
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\KursovProekt\bin\Debug\KursovProekt.exe.config
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\KursovProekt\bin\Debug\KursovProekt.exe
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\KursovProekt\bin\Debug\KursovProekt.pdb
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\KursovProekt\obj\Debug\KursovProekt.csproj.AssemblyReference.cache
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\KursovProekt\obj\Debug\KursovProekt.Properties.Resources.resources
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\KursovProekt\obj\Debug\KursovProekt.csproj.GenerateResource.cache
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\KursovProekt\obj\Debug\KursovProekt.csproj.CoreCompileInputs.cache
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\KursovProekt\obj\Debug\KursovProekt.exe
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\KursovProekt\obj\Debug\KursovProekt.pdb
+C:\Users\durot\source\repos\KursovProekt\KursovProekt\KursovProekt\obj\Debug\KursovProekt.Form1.resources
+C:\Users\durot\Downloads\KursovProekt (1)\KursovProekt\bin\Debug\KursovProekt.exe.config
+C:\Users\durot\Downloads\KursovProekt (1)\KursovProekt\bin\Debug\KursovProekt.exe
+C:\Users\durot\Downloads\KursovProekt (1)\KursovProekt\bin\Debug\KursovProekt.pdb
+C:\Users\durot\Downloads\KursovProekt (1)\KursovProekt\obj\Debug\KursovProekt.csproj.AssemblyReference.cache
+C:\Users\durot\Downloads\KursovProekt (1)\KursovProekt\obj\Debug\KursovProekt.Form1.resources
+C:\Users\durot\Downloads\KursovProekt (1)\KursovProekt\obj\Debug\KursovProekt.Properties.Resources.resources
+C:\Users\durot\Downloads\KursovProekt (1)\KursovProekt\obj\Debug\KursovProekt.csproj.GenerateResource.cache
+C:\Users\durot\Downloads\KursovProekt (1)\KursovProekt\obj\Debug\KursovProekt.csproj.CoreCompileInputs.cache
+C:\Users\durot\Downloads\KursovProekt (1)\KursovProekt\obj\Debug\KursovProekt.exe
+C:\Users\durot\Downloads\KursovProekt (1)\KursovProekt\obj\Debug\KursovProekt.pdb
